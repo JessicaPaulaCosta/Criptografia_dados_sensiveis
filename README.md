@@ -3,7 +3,7 @@
 Desenvolvimento de uma query em python com Jupyter Notebook
 
 
-Protósito: criptografar e descriptografar credenciais de acessos como: API, Bancos de Dados, aplicações WEb, entre outros.
+Propósito: criptografar e descriptografar credenciais de acessos como: API, Bancos de Dados, aplicações WEb, entre outros.
 
 
 Processos:  
